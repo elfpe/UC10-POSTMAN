@@ -1,0 +1,28 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "",
+      "titulo": "Teste",
+      "descricao": "Testando"
+    },
+    {
+      "imagem": "",
+      "titulo": "BORA",
+      "descricao": "BORA LÁ",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "imagem": "",
+      "titulo": "Teste",
+      "descricao": "Testando"
+    },
+    {
+      "imagem": "",
+      "titulo": "BORA",
+      "descricao": "VAMOS",
+      "id": 5
+    }
+  ]
+}
