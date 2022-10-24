@@ -1,25 +1,39 @@
 {
+  "users": [
+    {
+      "email": "mariajose@email.com",
+      "password": "admin123",
+      "nome": "Maria J.",
+      "id": 8
+    },
+    {
+      "email": "fgv@email.com",
+      "password": "$2a$10$3DavcK1sFB876vKXYlBN6OTwqZSMTasA9QXcsyDSmBfKxTn/aJfU.",
+      "nome": "Fábio",
+      "id": 9
+    }
+  ],
   "noticias": [
     {
       "id": 1,
-      "imagem": "",
+      "imagem": "./img/jogo2.png",
       "titulo": "Teste",
       "descricao": "Testando"
     },
     {
-      "imagem": "",
+      "imagem": "./img/jogo3.png",
       "titulo": "BORA",
       "descricao": "BORA LÁ",
       "id": 2
     },
     {
       "id": 4,
-      "imagem": "",
+      "imagem": "/img/jogo4.png",
       "titulo": "Teste",
       "descricao": "Testando"
     },
     {
-      "imagem": "",
+      "imagem": "/img/jogo6.png",
       "titulo": "BORA",
       "descricao": "VAMOS",
       "id": 5
